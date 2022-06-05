@@ -1,0 +1,17 @@
+C:\Users\kikarant.FAREAST\source\repos\SendEmail\SendEmail\bin\Debug\netcoreapp3.1\SendEmail.exe
+C:\Users\kikarant.FAREAST\source\repos\SendEmail\SendEmail\bin\Debug\netcoreapp3.1\SendEmail.deps.json
+C:\Users\kikarant.FAREAST\source\repos\SendEmail\SendEmail\bin\Debug\netcoreapp3.1\SendEmail.runtimeconfig.json
+C:\Users\kikarant.FAREAST\source\repos\SendEmail\SendEmail\bin\Debug\netcoreapp3.1\SendEmail.runtimeconfig.dev.json
+C:\Users\kikarant.FAREAST\source\repos\SendEmail\SendEmail\bin\Debug\netcoreapp3.1\SendEmail.dll
+C:\Users\kikarant.FAREAST\source\repos\SendEmail\SendEmail\bin\Debug\netcoreapp3.1\SendEmail.pdb
+C:\Users\kikarant.FAREAST\source\repos\SendEmail\SendEmail\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\kikarant.FAREAST\source\repos\SendEmail\SendEmail\obj\Debug\netcoreapp3.1\SendEmail.csproj.AssemblyReference.cache
+C:\Users\kikarant.FAREAST\source\repos\SendEmail\SendEmail\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Outlook.dll
+C:\Users\kikarant.FAREAST\source\repos\SendEmail\SendEmail\obj\Debug\netcoreapp3.1\SendEmail.csproj.ResolveComReference.cache
+C:\Users\kikarant.FAREAST\source\repos\SendEmail\SendEmail\obj\Debug\netcoreapp3.1\SendEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kikarant.FAREAST\source\repos\SendEmail\SendEmail\obj\Debug\netcoreapp3.1\SendEmail.AssemblyInfoInputs.cache
+C:\Users\kikarant.FAREAST\source\repos\SendEmail\SendEmail\obj\Debug\netcoreapp3.1\SendEmail.AssemblyInfo.cs
+C:\Users\kikarant.FAREAST\source\repos\SendEmail\SendEmail\obj\Debug\netcoreapp3.1\SendEmail.csproj.CoreCompileInputs.cache
+C:\Users\kikarant.FAREAST\source\repos\SendEmail\SendEmail\obj\Debug\netcoreapp3.1\SendEmail.dll
+C:\Users\kikarant.FAREAST\source\repos\SendEmail\SendEmail\obj\Debug\netcoreapp3.1\SendEmail.pdb
+C:\Users\kikarant.FAREAST\source\repos\SendEmail\SendEmail\obj\Debug\netcoreapp3.1\SendEmail.genruntimeconfig.cache
